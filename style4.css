@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(80, 218, 133);
+} 
+h1 { 
+    color: rgb(20, 0, 90); 
+    text-align: center; 
+} 
+
+p {
+    text-align: center; 
+    font-size: 20px; 
+} 
+img {
+    margin-left: 38%;
+}
