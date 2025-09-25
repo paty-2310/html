@@ -1,0 +1,16 @@
+img {
+    width: 600px; 
+    border-style: groove; 
+    border-color: black; 
+    border-radius: 10px;
+} 
+
+.tarjeta {
+    text-align: center; 
+    background-color: rgb(150, 92, 226); 
+    padding-bottom: 10px; 
+    border-color:black ; 
+    border-radius: 10px; 
+    border-style: outset; 
+    box-shadow: 100px;
+}
